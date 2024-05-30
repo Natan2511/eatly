@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/eatly/static/css/main.aec54528.css",
+    "main.js": "/eatly/static/js/main.f869a146.js",
+    "static/media/Hero-img.png": "/eatly/static/media/Hero-img.332d11088ae77756adb0.png",
+    "static/media/HeroMob.png": "/eatly/static/media/HeroMob.dd26eae159d9987adc7e.png",
+    "static/media/FeaturesBg.jpg": "/eatly/static/media/FeaturesBg.62022de076805055b889.jpg",
+    "static/media/Trust.png": "/eatly/static/media/Trust.c64f20d44765f20f6c9c.png",
+    "index.html": "/eatly/index.html",
+    "main.aec54528.css.map": "/eatly/static/css/main.aec54528.css.map",
+    "main.f869a146.js.map": "/eatly/static/js/main.f869a146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aec54528.css",
+    "static/js/main.f869a146.js"
+  ]
+}
